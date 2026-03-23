@@ -1,9 +1,9 @@
-import "./globals.css";
-
 export const metadata = {
-  title: "ADMTMAX Marketplace Landing Page",
-  description: "ADMTMAX GROUP Amazon marketplace expansion landing page",
+  title: "ADMTMAX Amazon Marketplace Landing",
+  description: "Amazon marketplace expansion landing page for ADMTMAX",
 };
+
+import "./globals.css";
 
 export default function RootLayout({ children }) {
   return (

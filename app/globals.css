@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 html {
   scroll-behavior: smooth;
@@ -15,4 +13,8 @@ body {
 
 * {
   box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
 }
